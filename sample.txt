@@ -1,0 +1,13 @@
+﻿System and Method for Quantitative Detection of Urea in Milk
+
+
+
+
+Technical Field
+The present invention relates to food safety and specifically to a system and method for detecting urea adulteration in milk using thermal processing and image analysis technologies.
+
+
+
+
+Abstract
+This patent application presents a novel method for the detection of urea concentration in milk using microscopic image processing under light source, preferably UV light. The disclosed technique involves exposing a milk sample to light source and capturing microscopic images of the milk's response, which are then analyzed using advanced image processing algorithms to detect and quantify urea concentrations. This method leverages the unique fluorescence properties of urea when exposed to UV light, enabling precise identification of adulteration levels that exceed the safety thresholds, such as those specified by the Food Safety and Standards Authority of India (FSSAI). The primary innovation of this approach lies in its combination of UV fluorescence microscopy and digital image processing, which together offer a highly sensitive, accurate, and cost-effective means of assessing milk purity. Unlike traditional chemical and spectroscopic methods, this technique does not require expensive reagents or specialized knowledge, making it accessible and scalable for widespread use in milk testing facilities, particularly within resource-limited settings.
